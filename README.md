@@ -7,8 +7,6 @@ I enjoy learning new technologies, experimenting with ideas, and building projec
 
 Currently exploring **LLMs, RAG systems, MLOps, and Cloud Technologies**.
 
-## 🌐 Socials
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navvya14@gmail.com)
 
 # 💻 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -31,6 +29,7 @@ Currently exploring **LLMs, RAG systems, MLOps, and Cloud Technologies**.
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+
 # 📊 GitHub Stats
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=SyntaxSphinx&theme=dark&hide_border=false&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)">
@@ -43,5 +42,11 @@ Currently exploring **LLMs, RAG systems, MLOps, and Cloud Technologies**.
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSphinx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" media="(prefers-color-scheme: dark)">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSphinx&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </picture>
+
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/SyntaxSphinx/badge.svg)](https://hub.xerj.org/contributors/SyntaxSphinx)
+
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navvya14@gmail.com)
 
 ---
